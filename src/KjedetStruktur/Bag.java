@@ -1,2 +1,4 @@
-package KjedetStruktur;public class Bag {
+package KjedetStruktur;
+
+public class Bag {
 }
